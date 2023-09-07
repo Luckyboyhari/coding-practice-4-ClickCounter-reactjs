@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.head {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto;
+  padding-bottom: 10px;
+}
+.count {
+  color: #c20a72;
+}
+.para {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Roboto;
+  padding-bottom: 10px;
+}
+.butt {
+  background-color: #007bff;
+  width: 60px;
+  height: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
